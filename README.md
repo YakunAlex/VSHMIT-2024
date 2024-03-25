@@ -22,9 +22,9 @@
 
 ### Одномерная динамика
 
-[Калькулятор](https://informatics.msk.ru/mod/statements/view.php?id=654&chapterid=2963#1)
-
 [Лесенка aka самый дешевый путь](https://informatics.msk.ru/mod/statements/view.php?id=654&chapterid=915#1)
+
+[Калькулятор](https://informatics.msk.ru/mod/statements/view.php?id=654&chapterid=2963#1)
 
 [Разрежь ленточку](https://codeforces.com/gym/513366/problem/B)
 
@@ -32,4 +32,18 @@
 
 [Гвоздики*](https://informatics.msk.ru/mod/statements/view.php?id=657&chapterid=212#1)
 
-[Кормление кошек**](https://codeforces.com/gym/513366/problem/C)
+[Кормление кошек***](https://codeforces.com/gym/513366/problem/C)
+
+### Одномерная динамика: разные хитрости
+
+[Взрывоопасность](https://informatics.msk.ru/mod/statements/view.php?id=654&chapterid=913#1)
+
+[Взрывоопасность - 2](https://informatics.msk.ru/mod/statements/view.php?id=654&chapterid=914#1)
+
+[Без трех единиц](https://informatics.msk.ru/mod/statements/view.php?id=654&chapterid=912#1)
+
+[Скука*](https://codeforces.com/gym/513366/problem/E)
+
+[Блоковые последовательности*](https://codeforces.com/gym/513366/problem/F)
+
+[Найди различные](https://codeforces.com/gym/513366/problem/G)
