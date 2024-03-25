@@ -1,4 +1,10 @@
-# Весенний ШМИТ 2024
+# Общие ссылки
+
+Мой телеграм: [@BadBed](https://t.me/BadBed)
+
+Отправляйте скриншоты пройденных тестов в информатиксе.
+
+# Задачи
 
 ### Подсчет формул
 
@@ -22,4 +28,6 @@
 
 [Покупка билетов](https://informatics.msk.ru/mod/statements/view.php?id=657&chapterid=212#1)
 
-[Гвоздики](https://informatics.msk.ru/mod/statements/view.php?id=657&chapterid=212#1)
+[Гвоздики*](https://informatics.msk.ru/mod/statements/view.php?id=657&chapterid=212#1)
+
+[Кормление кошек**](https://codeforces.com/gym/513366/problem/C)
