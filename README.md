@@ -1,6 +1,7 @@
 # Общие ссылки
 
-Нужно зарегистрироваться на сайте [codeforces.com](https://codeforces.com/) и пройти по ссылке [https://codeforces.com/contests/513366](https://codeforces.com/contests/513366)
+Нужно зарегистрироваться на сайте [codeforces.com](https://codeforces.com/) и пройти по [ссылке](https://codeforces.com/contestInvitation/cf74473beb3c9881e69452a81e7ac29f069c9ef5)
+
 Мой телеграм: [@BadBed](https://t.me/BadBed)
 
 Отправляйте скриншоты пройденных тестов в информатиксе.
