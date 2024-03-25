@@ -46,4 +46,4 @@
 
 [Блоковые последовательности*](https://codeforces.com/gym/513366/problem/F)
 
-[Найди различные](https://codeforces.com/gym/513366/problem/G)
+[Найди различные*](https://codeforces.com/gym/513366/problem/G)
