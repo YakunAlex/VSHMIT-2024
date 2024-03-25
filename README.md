@@ -1,7 +1,6 @@
 # Общие ссылки
 
-Нужно зарегистрироваться на сайте [codeforces.com](https://codeforces.com/) и скинуть ваш логин мне в телеграм
-
+Нужно зарегистрироваться на сайте [codeforces.com](https://codeforces.com/) и пройти по ссылке [https://codeforces.com/contests/513366](https://codeforces.com/contests/513366)
 Мой телеграм: [@BadBed](https://t.me/BadBed)
 
 Отправляйте скриншоты пройденных тестов в информатиксе.
