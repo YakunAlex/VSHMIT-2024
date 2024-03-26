@@ -26,9 +26,9 @@
 
 [Калькулятор](https://informatics.msk.ru/mod/statements/view.php?id=654&chapterid=2963#1)
 
-[Разрежь ленточку](https://codeforces.com/gym/513366/problem/B)
-
 [Покупка билетов](https://informatics.msk.ru/mod/statements/view.php?id=657&chapterid=212#1)
+
+[Разрежь ленточку](https://codeforces.com/gym/513366/problem/B)
 
 [Гвоздики*](https://informatics.msk.ru/mod/statements/view.php?id=657&chapterid=212#1)
 
