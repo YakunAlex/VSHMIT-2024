@@ -42,6 +42,8 @@
 
 [Без трех единиц](https://informatics.msk.ru/mod/statements/view.php?id=654&chapterid=912#1)
 
+[Каникулы*](https://codeforces.com/gym/513366/problem/D)
+
 [Скука*](https://codeforces.com/gym/513366/problem/E)
 
 [Блоковые последовательности*](https://codeforces.com/gym/513366/problem/F)
