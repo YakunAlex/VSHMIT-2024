@@ -49,3 +49,13 @@
 [Блоковые последовательности*](https://codeforces.com/gym/513366/problem/F)
 
 [Найди различные*](https://codeforces.com/gym/513366/problem/G)
+
+# Двумерная динамика
+
+[Черепашка - количчество](https://informatics.msk.ru/mod/statements/view.php?id=656&chapterid=2964#1)
+
+[Черепашка - максимум](https://informatics.msk.ru/mod/statements/view.php?id=656&chapterid=2965#1)
+
+[Ход конем 1](https://informatics.msk.ru/mod/statements/view.php?id=656&chapterid=946#1)
+
+[Ход конем 2](https://informatics.msk.ru/mod/statements/view.php?id=656&chapterid=2962#1)
