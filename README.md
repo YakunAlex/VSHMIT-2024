@@ -1,6 +1,6 @@
 # Общие ссылки
 
-[Олимпиада для 8 класса](https://codeforces.com/contestInvitation/55245436f3a0543d686b1de38fe61b76e08098a4)
+[Олимпиада для 8 класса]()
 
 Нужно зарегистрироваться на сайте [codeforces.com](https://codeforces.com/) и пройти по [ссылке](https://codeforces.com/contestInvitation/cf74473beb3c9881e69452a81e7ac29f069c9ef5)
 
