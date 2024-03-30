@@ -1,5 +1,7 @@
 # Общие ссылки
 
+[Олимпиада для 7 класса](https://codeforces.com/gym/514281)
+
 [Олимпиада для 8 класса](https://codeforces.com/contestInvitation/df73283087620413ccc3c46d3df10d0efaf0595c)
 
 Нужно зарегистрироваться на сайте [codeforces.com](https://codeforces.com/) и пройти по [ссылке](https://codeforces.com/contestInvitation/cf74473beb3c9881e69452a81e7ac29f069c9ef5)
